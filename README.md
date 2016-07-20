@@ -7,7 +7,7 @@ As per the course assignment, the `run_analysis.R` script does the following:
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-6. Saves the tidy dataset from step 5 as a txt file named `tidy.tx`t
+6. Saves the tidy dataset from step 5 as a txt file named `tidy.txt`
 
 In addition, as step 0, the script also downloads the dataset (from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzips it to right folder ("`./UCI HAR Dataset`") in the working directory.
 
